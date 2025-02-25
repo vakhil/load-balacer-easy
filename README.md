@@ -1,0 +1,1 @@
+UPDATE 24-02-2025, i wrote a basic version of load balancer which is highly available and has 2 backend servers . It currently fidtributes load evenly and checks regularly about the health status of the backend serveres
